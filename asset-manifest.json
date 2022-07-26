@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yashvaddi.github.io/csb-7gnsx8/static/css/main.aba33a2d.chunk.css",
+    "main.js": "https://yashvaddi.github.io/csb-7gnsx8/static/js/main.3fefd8cd.chunk.js",
+    "main.js.map": "https://yashvaddi.github.io/csb-7gnsx8/static/js/main.3fefd8cd.chunk.js.map",
+    "runtime-main.js": "https://yashvaddi.github.io/csb-7gnsx8/static/js/runtime-main.da00dc37.js",
+    "runtime-main.js.map": "https://yashvaddi.github.io/csb-7gnsx8/static/js/runtime-main.da00dc37.js.map",
+    "static/js/2.74f932e0.chunk.js": "https://yashvaddi.github.io/csb-7gnsx8/static/js/2.74f932e0.chunk.js",
+    "static/js/2.74f932e0.chunk.js.map": "https://yashvaddi.github.io/csb-7gnsx8/static/js/2.74f932e0.chunk.js.map",
+    "index.html": "https://yashvaddi.github.io/csb-7gnsx8/index.html",
+    "static/css/main.aba33a2d.chunk.css.map": "https://yashvaddi.github.io/csb-7gnsx8/static/css/main.aba33a2d.chunk.css.map",
+    "static/js/2.74f932e0.chunk.js.LICENSE.txt": "https://yashvaddi.github.io/csb-7gnsx8/static/js/2.74f932e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da00dc37.js",
+    "static/js/2.74f932e0.chunk.js",
+    "static/css/main.aba33a2d.chunk.css",
+    "static/js/main.3fefd8cd.chunk.js"
+  ]
+}
